@@ -1,9 +1,9 @@
-# React + Express + Typescript
+# React + Express + Typescript + MongoDB
 
 ## Aplicacion MVC
 
 <p>
-Aplicacion web MVC creada con el framework React en el frontend y con el framework Express con Typescript en el backend
+Aplicacion web MVC creada con el framework React en el frontend y con el framework Express con Typescript en el backend. La base de datos está alojada en MongoDB Atlas
 </p>
 
 ![image](https://user-images.githubusercontent.com/30305964/115075419-a8553d00-9ec0-11eb-87fb-0373772ce7fa.png)
