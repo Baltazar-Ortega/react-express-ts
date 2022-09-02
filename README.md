@@ -1,4 +1,4 @@
-# Tarea 3 - Nuevas tecnologias
+# React + Express + Typescript
 
 ## Aplicacion MVC
 
